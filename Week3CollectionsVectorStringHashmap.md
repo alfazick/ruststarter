@@ -1,4 +1,3 @@
-
 fn working_with_vectors() {
     // Creating a vector
     let mut nums: Vec<i32> = Vec::new();
@@ -119,8 +118,6 @@ fn utilizing_hashmaps() {
 
 
 
-
-
 fn main() {
     working_with_vectors();
     understanding_strings();
@@ -128,3 +125,4 @@ fn main() {
     utilizing_hashmaps();
 }
 
+// time to leetcode
