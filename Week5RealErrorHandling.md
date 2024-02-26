@@ -1,5 +1,3 @@
-
-
 // Add to your Cargo.toml
 // [dependencies]
 // serde = { version = "1.0", features = ["derive"] }

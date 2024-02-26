@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "description": "Complete the Rust project",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "description": "Read Rust documentation",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "description": "Practice Rust by writing examples",
+        "completed": false
+    }
+]
